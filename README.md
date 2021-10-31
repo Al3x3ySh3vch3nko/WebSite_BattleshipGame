@@ -1,2 +1,2 @@
 # battleship-game-test
-Pls Ignore
+training
